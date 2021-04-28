@@ -1,1 +1,1 @@
-# qml-cross-responsive-template
+# gui-cross-responsive-template
