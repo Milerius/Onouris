@@ -32,3 +32,4 @@
 *.app
 
 project.metadata.json
+vcpkg.json

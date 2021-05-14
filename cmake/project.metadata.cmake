@@ -19,4 +19,5 @@ set(PROJECT_JSON_METADATA "{
 macro(generate_project_metafiles)
     message(STATUS "Generating project.metadata.json with:\n${PROJECT_JSON_METADATA}")
     file(WRITE ${CMAKE_SOURCE_DIR}/project.metadata.json ${PROJECT_JSON_METADATA})
+    configure_file(${CMAKE_SOURCE_DIR}/vcpkg.json.in ${CMAKE_SOURCE_DIR}/vcpkg.json)
 endmacro()

@@ -1,6 +1,6 @@
 {
   "name": "minigui",
-  "version-string": "0.0.1",
+  "version-string": "@PROJECT_VERSION@",
   "dependencies": [
     "entt",
     "glad",
