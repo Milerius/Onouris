@@ -1,8 +1,8 @@
 ## Project Name / Binary Name
-set(PROJECT_BINARY_NAME "MyApp")
+set(PROJECT_BINARY_NAME "onouris")
 
 ##! Project Name
-set(PROJECT_NAME "Onouris")
+set(PROJECT_NAME "onouris")
 
 ##! Project Version
 set(PROJECT_VERSION_MAJOR 0)
